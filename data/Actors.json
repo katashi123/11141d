@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$you","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nicholas","nickname":"","note":"","profile":"","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"透明","nickname":"","note":"","profile":"","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"$olivia","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Olivia","nickname":"","note":"","profile":"","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"$layla","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Layla","nickname":"","note":"","profile":"","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"$lucy","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucy","nickname":"","note":"","profile":"","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"$charlotte","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Charlotte","nickname":"","note":"","profile":"","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}}
+]

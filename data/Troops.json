@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"members":[{"enemyId":1,"x":408,"y":436,"hidden":false}],"name":"なぞ","pages":[{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[{"code":117,"indent":0,"parameters":[32]},{"code":101,"indent":0,"parameters":["",0,2,2]},{"code":401,"indent":0,"parameters":["テストです"]},{"code":117,"indent":0,"parameters":[33]},{"code":340,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"span":0}]}
+]
